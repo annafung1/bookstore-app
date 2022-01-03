@@ -10,6 +10,7 @@ username: admin
 password: admin
 ``` 
 ![bookstore1](https://user-images.githubusercontent.com/53986991/147902654-09931779-d009-4558-a695-99e828a12c89.PNG)
+
 ### Adding/Removing Books
 
 ![bookstore2](https://user-images.githubusercontent.com/53986991/147902661-6c54b8fc-468f-4862-88c0-dd99d4490a64.PNG)
@@ -26,6 +27,8 @@ username: customer1
 password: pw1
 ``` 
 ### Buying books and redeeming points
+
+
 ![cus1](https://user-images.githubusercontent.com/53986991/147902986-5a612433-1e18-4434-ae1a-68487d2cbb3f.PNG)
 ![cus2](https://user-images.githubusercontent.com/53986991/147902987-37738894-53cc-46dd-be60-022881e7ca89.PNG)
 ![cus3](https://user-images.githubusercontent.com/53986991/147902988-481f0836-ddaa-4e2d-83a1-5fdaddcca9ea.PNG)
