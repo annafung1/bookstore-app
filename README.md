@@ -11,7 +11,7 @@ password: admin
 ``` 
 ![bookstore1](https://user-images.githubusercontent.com/53986991/147902654-09931779-d009-4558-a695-99e828a12c89.PNG)
 ### Adding/Removing Books
-https://user-images.githubusercontent.com/53986991/147902798-592878ad-af9e-409c-974e-3dd886e821b2.mp4
+
 ![bookstore2](https://user-images.githubusercontent.com/53986991/147902661-6c54b8fc-468f-4862-88c0-dd99d4490a64.PNG)
 ![bookstore3](https://user-images.githubusercontent.com/53986991/147902666-22fe7f52-37a1-49ca-8f9a-f022d1d0effa.PNG)
 
