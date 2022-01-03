@@ -1,0 +1,9 @@
+customer1
+pw1
+7000.0
+customer2
+pw2
+0.0
+customer3
+pw3
+0.0

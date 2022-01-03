@@ -1,0 +1,8 @@
+Book A
+200.0
+Book B
+500.0
+Book C
+50.0
+Book D
+100.0
